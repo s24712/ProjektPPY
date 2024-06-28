@@ -1,0 +1,1 @@
+{"students": {"columns": {"id": "INTEGER", "name": "TEXT", "age": "INTEGER", "enrollment_date": "DATE"}, "data": {"id": [1, 2], "name": ["John Doe", "Jane Smith"], "age": [20, 22], "enrollment_date": ["2022-09-01", "2021-09-01"]}}}
